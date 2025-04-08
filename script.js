@@ -6,7 +6,7 @@ const game = document.getElementById("game");
 let birdY = 200;
 let gravity = 2;
 let jump = -30;
-let velocity = 0;
+let velocity = 10;
 
 let pipeX = 400;
 let gap = 120;
